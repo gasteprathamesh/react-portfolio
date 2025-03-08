@@ -1,0 +1,26 @@
+[
+  {
+    "organisation": "Persistent Systems",
+    "roles": [
+      {
+        "title": "Senior Software Engineer",
+        "startDate": "July, 2024",
+        "endDate": "Present",
+        "experiences": [
+          "Leading development initiatives to improve system performance.",
+          "Optimizing database queries to enhance processing speed."
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "startDate": "June, 2022",
+        "endDate": "June, 2024",
+        "experiences": [
+          "Developed key application features for enterprise clients.",
+          "Implemented scalable solutions, reducing load times by 50%."
+        ]
+      }
+    ],
+    "imageSrc": "history/persistent.png"
+  }
+]
